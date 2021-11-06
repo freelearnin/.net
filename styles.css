@@ -1,0 +1,31 @@
+body{
+  background-color:steelblue;
+  }
+
+  h1 {
+    color:#66BFBF;
+    }
+
+hr{
+     border-style:none;
+     border-top-style: dotted;
+     border-color: grey;
+     border-width: 5px;
+     width:5%
+   }
+   h3{
+     color:#66BFBF;
+   }
+   p{
+     font-style: italic;
+     font-weight: bolder;
+     color: lightgreen;
+   }
+   /*********CLASS SELECTORS*******/
+   .vikram2{
+     background-color: pink;
+     height: 180px;
+   }
+   .circular{
+     border-radius:50%;
+   }
